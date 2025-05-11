@@ -53,6 +53,7 @@ The honeypot runs locally and logs incoming TCP connections. A test was performe
 
 * **Shaikh Muqtasida**
 * **Arya Gawit**
+
   Developed as part of the **DigiSuraksha Cybersecurity Internship 2025**
 
 ---
