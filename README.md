@@ -1,6 +1,4 @@
-Here's the revised version with bullets added to the subpoints:
 
----
 
 # Honeypot for Café Wi-Fi: A Decoy-Based Cybersecurity Model☕️🔒
 
