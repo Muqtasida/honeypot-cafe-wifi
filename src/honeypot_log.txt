@@ -1,0 +1,72 @@
+[2025-05-11 08:07:13] Connection from 127.0.0.1:63103 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="136", "Google
+[2025-05-11 08:07:14] Connection from 127.0.0.1:63104 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 08:07:15] Connection from 127.0.0.1:63105 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 08:07:17] Connection from 127.0.0.1:63107 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 08:12:42] Connection from 127.0.0.1:63123 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 08:12:47] Connection from 127.0.0.1:63124 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:27:11] Connection from 127.0.0.1:51221 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="136", "Google
+[2025-05-11 16:27:13] Connection from 127.0.0.1:51227 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:27:16] Connection from 127.0.0.1:51228 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:27:21] Connection from 127.0.0.1:51233 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:27:51] Connection from 127.0.0.1:51241 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:28:51] Connection from 127.0.0.1:51243 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:34:29] Connection from 127.0.0.1:51295 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="136", "Google
+[2025-05-11 16:34:30] Connection from 127.0.0.1:51296 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
+[2025-05-11 16:34:36] Connection from 127.0.0.1:51301 - Data: GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "
