@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Café Wi-Fi Login</title>
+    <style>
+        body {
+            background: #f2ebe3 url('https://www.transparenttextures.com/patterns/paper-fibers.png'); /* subtle paper-like background */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .login-box {
+            background: #fffaf3;
+            padding: 40px 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            width: 350px;
+            text-align: center;
+        }
+
+        .login-box h2 {
+            margin-bottom: 10px;
+            color: #5c3d2e;
+        }
+
+        .login-box p {
+            margin-bottom: 25px;
+            font-size: 15px;
+            color: #7d5a4f;
+        }
+
+        .coffee-icon {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 90%;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 15px;
+        }
+
+        input[type="submit"] {
+            padding: 12px 25px;
+            background-color: #b77a58;
+            color: white;
+            font-size: 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #a16345;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-box">
+        <div class="coffee-icon">☕️</div>
+        <h2>Welcome to Café Wi-Fi</h2>
+        <p>Please sign in to access the internet</p>
+        <form action="/" method="post">
+            <input type="text" name="username" placeholder="Username" required /><br>
+            <input type="password" name="password" placeholder="Password" required /><br><br>
+            <input type="submit" value="Login" />
+        </form>
+    </div>
+</body>
+</html>
